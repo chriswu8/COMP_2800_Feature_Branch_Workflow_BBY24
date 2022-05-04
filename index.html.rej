@@ -1,0 +1,12 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -1,9 +0,0 @@
+-<html>
+-    <head>
+-        <link rel=""stylesheet" href="styles.css">
+-    </head>
+-    <body>
+-        <h1>This is my simple webpage</h1>
+-        <div class = "content"></div>
+-    </body>
+-</html>
+\ No newline at end of file
